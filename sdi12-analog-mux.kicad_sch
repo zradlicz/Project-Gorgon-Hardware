@@ -13951,16 +13951,6 @@
 		)
 		(uuid "3654dd95-c6d0-4fa0-a44b-8c2dcc95779b")
 	)
-	(label "MUX_A1"
-		(at 217.17 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "369308b6-ed8d-43ef-8426-7c4075330321")
-	)
 	(label "SDI12_DATA_3V3"
 		(at 119.38 229.87 180)
 		(effects
@@ -14101,6 +14091,16 @@
 		)
 		(uuid "5b85f9b5-c06f-4291-858a-4ac3b7c7a129")
 	)
+	(label "MUX_A2"
+		(at 217.17 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5ba061e5-1d42-4734-a033-d459f4e33ba8")
+	)
 	(label "SCLK"
 		(at 217.17 128.27 0)
 		(effects
@@ -14140,6 +14140,16 @@
 			(justify left bottom)
 		)
 		(uuid "636978a5-b036-46dd-bd06-01846d552659")
+	)
+	(label "MUX_A1"
+		(at 217.17 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "63e09272-da1f-4ac2-8c09-274ff5e88da1")
 	)
 	(label "USB_D-"
 		(at 48.26 149.86 180)
@@ -14210,6 +14220,16 @@
 			(justify right bottom)
 		)
 		(uuid "75848c2a-2c77-4f87-b0c4-881b30b81503")
+	)
+	(label "MUX_EN"
+		(at 217.17 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "765f84b1-f301-4980-9f18-7b956dcb02de")
 	)
 	(label "~{USB_BOOT}"
 		(at 27.94 52.07 0)
@@ -14481,16 +14501,6 @@
 		)
 		(uuid "c6e7a387-ba5c-45f5-9f50-7817f80835f5")
 	)
-	(label "MUX_EN"
-		(at 217.17 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c868f117-8175-45f9-bfca-344d466f29b4")
-	)
 	(label "RTD_6_POS"
 		(at 251.46 143.51 180)
 		(effects
@@ -14500,16 +14510,6 @@
 			(justify right bottom)
 		)
 		(uuid "c86c4be7-36c6-44e4-ae2a-6c2aa245528e")
-	)
-	(label "MUX_A2"
-		(at 217.17 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c8d56759-aab4-4b29-acde-e587252e9622")
 	)
 	(label "QSPI_SD3"
 		(at 67.31 64.77 0)
@@ -14552,14 +14552,14 @@
 		(uuid "ceae32f0-84fd-496d-92e4-f80576509365")
 	)
 	(label "MUX_A0"
-		(at 217.17 90.17 0)
+		(at 217.17 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "d158c105-e313-44b5-903c-22bc64d1675a")
+		(uuid "d0037f5d-c017-4c92-b766-63167fb32096")
 	)
 	(label "POSITIVE_REF"
 		(at 350.52 34.29 0)
@@ -23581,7 +23581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 234.6452 270.51 0)
 			(effects
 				(font
@@ -26073,7 +26073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 388.62 175.26 0)
 			(effects
 				(font
@@ -26624,7 +26624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 127.9652 275.59 0)
 			(effects
 				(font
