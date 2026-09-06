@@ -1,0 +1,538 @@
+ERC report (2026-09-06T11:42:06, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(19.05 mm, 232.41 mm): Symbol #PWR01 Pin 1 [Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(82.55 mm, 234.95 mm): Symbol U3 Pin 4 [A2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(102.87 mm, 234.95 mm): Symbol U3 Pin 1 [B2, Bidirectional, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(138.43 mm, 135.89 mm): Symbol U7 Pin 26 [RUN, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 87.63 mm): Symbol U7 Pin 4 [GPIO2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 90.17 mm): Symbol U7 Pin 5 [GPIO3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 92.71 mm): Symbol U7 Pin 6 [GPIO4, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 95.25 mm): Symbol U7 Pin 7 [GPIO5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 97.79 mm): Symbol U7 Pin 8 [GPIO6, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 100.33 mm): Symbol U7 Pin 9 [GPIO7, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 102.87 mm): Symbol U7 Pin 11 [GPIO8, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 105.41 mm): Symbol U7 Pin 12 [GPIO9, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 110.49 mm): Symbol U7 Pin 14 [GPIO11, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 113.03 mm): Symbol U7 Pin 15 [GPIO12, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 115.57 mm): Symbol U7 Pin 16 [GPIO13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 118.11 mm): Symbol U7 Pin 17 [GPIO14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 120.65 mm): Symbol U7 Pin 18 [GPIO15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 143.51 mm): Symbol U7 Pin 36 [GPIO24, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 146.05 mm): Symbol U7 Pin 37 [GPIO25, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 151.13 mm): Symbol U7 Pin 38 [GPIO26_ADC0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 153.67 mm): Symbol U7 Pin 39 [GPIO27_ADC1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 156.21 mm): Symbol U7 Pin 40 [GPIO28_ADC2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(201.93 mm, 158.75 mm): Symbol U7 Pin 41 [GPIO29_ADC3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(210.82 mm, 220.98 mm): Symbol U5 Pin 9 [S8, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(219.71 mm, 267.97 mm): Symbol U6 Pin 5 [GND, Power output, Line]
+    @(31.75 mm, 157.48 mm): Symbol J2 Pin 5 [GND, Power output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(288.29 mm, 241.30 mm): Symbol U8 Pin 21 [AIN15/IOUT/VBIAS/REFIN2(-), Unspecified, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(384.81 mm, 215.90 mm): Symbol U8 Pin 31 [CLK, Unspecified, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(384.81 mm, 228.60 mm): Symbol U8 Pin 25 [PSW, Unspecified, Line]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(19.05 mm, 234.95 mm): Symbol C1 [C_Small]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RP2040_minimal_r2'
+    ; warning
+    @(31.75 mm, 147.32 mm): Symbol J2 [USB_B_Micro]
+[lib_symbol_mismatch]: Symbol 'USB_B_Micro' doesn't match copy in library 'Connector'
+    ; warning
+    @(31.75 mm, 147.32 mm): Symbol J2 [USB_B_Micro]
+[footprint_link_issues]: The current configuration does not include the footprint library 'JST_SH3PIN_SOCKET'
+    ; warning
+    @(34.29 mm, 264.16 mm): Symbol J3 [SM03B-SRSS-TB]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'JST_SH3PIN_SOCKET'
+    ; warning
+    @(34.29 mm, 264.16 mm): Symbol J3 [SM03B-SRSS-TB]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(34.29 mm, 264.16 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(29.21 mm, 264.16 mm): Symbol R1 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; warning
+    @(34.29 mm, 266.70 mm): Symbol J3 Pin 2 [2, Unspecified, Line]
+    @(31.75 mm, 273.05 mm): Symbol #PWR06 Pin 1 [Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(34.29 mm, 269.24 mm): Symbol J3 Pin 3 [3, Unspecified, Line]
+    @(29.21 mm, 269.24 mm): Symbol R2 Pin 1 [Passive, Line]
+[lib_symbol_mismatch]: Symbol 'Crystal_GND24' doesn't match copy in library 'Device'
+    ; warning
+    @(48.26 mm, 100.33 mm): Symbol Y1 [Crystal_GND24]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(50.80 mm, 234.95 mm): Symbol C4 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(90.17 mm, 212.09 mm): Symbol C8 [C_Small]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Package_SO_Downloaded'
+    ; warning
+    @(93.98 mm, 59.69 mm): Symbol U4 [W25Q128JVS]
+[lib_symbol_mismatch]: Symbol 'W25Q128JVS' doesn't match copy in library 'Memory_Flash'
+    ; warning
+    @(93.98 mm, 59.69 mm): Symbol U4 [W25Q128JVS]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(93.98 mm, 73.025 mm): Symbol #PWR025 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(93.98 mm, 73.025 mm): Vertical Wire, length 0.635 mm
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(95.25 mm, 212.09 mm): Symbol C6 [C_Small]
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(124.46 mm, 135.89 mm): Label 'RUN'
+[footprint_link_issues]: The current configuration does not include the footprint library 'ADG708'
+    ; warning
+    @(154.94 mm, 203.20 mm): Symbol U5 [ADG708BRUZ]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ADG708'
+    ; warning
+    @(154.94 mm, 203.20 mm): Symbol U5 [ADG708BRUZ]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(154.94 mm, 203.20 mm): Symbol U5 Pin 1 [A0, Unspecified, Line]
+    @(201.93 mm, 135.89 mm): Symbol U7 Pin 32 [GPIO21, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(154.94 mm, 205.74 mm): Symbol U5 Pin 2 [EN, Unspecified, Line]
+    @(201.93 mm, 133.35 mm): Symbol U7 Pin 31 [GPIO20, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(154.94 mm, 210.82 mm): Symbol U5 Pin 4 [S1, Unspecified, Line]
+    @(369.57 mm, 67.31 mm): Symbol J6 Pin 1 [Pin_1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(154.94 mm, 213.36 mm): Symbol U5 Pin 5 [S2, Unspecified, Line]
+    @(369.57 mm, 80.01 mm): Symbol J7 Pin 1 [Pin_1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(154.94 mm, 215.90 mm): Symbol U5 Pin 6 [S3, Unspecified, Line]
+    @(369.57 mm, 92.71 mm): Symbol J8 Pin 1 [Pin_1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(154.94 mm, 218.44 mm): Symbol U5 Pin 7 [S4, Unspecified, Line]
+    @(369.57 mm, 106.68 mm): Symbol J9 Pin 1 [Pin_1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(154.94 mm, 220.98 mm): Symbol U5 Pin 8 [D, Unspecified, Line]
+    @(288.29 mm, 203.20 mm): Symbol U8 Pin 4 [AIN0/IOUT/VBIAS, Unspecified, Line]
+[footprint_link_issues]: The current configuration does not include the footprint library '74438334022'
+    ; warning
+    @(154.94 mm, 267.97 mm): Symbol L1 [L]
+[footprint_link_issues]: The current configuration does not include the footprint library 'TPS629210'
+    ; warning
+    @(158.75 mm, 260.35 mm): Symbol U6 [XPS629210DRLR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'TPS629210'
+    ; warning
+    @(158.75 mm, 260.35 mm): Symbol U6 [XPS629210DRLR]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(158.75 mm, 260.35 mm): Symbol U6 Pin 1 [FB/VSET, Unspecified, Line]
+    @(132.08 mm, 260.35 mm): Symbol R7 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(158.75 mm, 262.89 mm): Symbol U6 Pin 2 [PG, Unspecified, Line]
+    @(158.75 mm, 262.89 mm): Symbol R9 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(158.75 mm, 265.43 mm): Symbol U6 Pin 3 [VOS, Unspecified, Line]
+    @(151.13 mm, 267.97 mm): Symbol L1 Pin 1 [1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(158.75 mm, 267.97 mm): Symbol U6 Pin 4 [SW, Unspecified, Line]
+    @(158.75 mm, 267.97 mm): Symbol L1 Pin 2 [2, Passive, Line]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RP2040_minimal_r2'
+    ; warning
+    @(170.18 mm, 115.57 mm): Symbol U7 [RP2040]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'MCU_RaspberryPi_RP2040'
+    ; warning
+    @(170.18 mm, 115.57 mm): Symbol U7 [RP2040]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(210.82 mm, 203.20 mm): Symbol U5 Pin 16 [A1, Unspecified, Line]
+    @(201.93 mm, 138.43 mm): Symbol U7 Pin 34 [GPIO22, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(210.82 mm, 205.74 mm): Symbol U5 Pin 15 [A2, Unspecified, Line]
+    @(201.93 mm, 140.97 mm): Symbol U7 Pin 35 [GPIO23, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; warning
+    @(210.82 mm, 208.28 mm): Symbol U5 Pin 14 [GND, Unspecified, Line]
+    @(228.60 mm, 208.28 mm): Symbol #PWR045 Pin 1 [Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(210.82 mm, 213.36 mm): Symbol U5 Pin 12 [S5, Unspecified, Line]
+    @(369.57 mm, 120.65 mm): Symbol J10 Pin 1 [Pin_1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(210.82 mm, 215.90 mm): Symbol U5 Pin 11 [S6, Unspecified, Line]
+    @(369.57 mm, 135.89 mm): Symbol J11 Pin 1 [Pin_1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(210.82 mm, 218.44 mm): Symbol U5 Pin 10 [S7, Unspecified, Line]
+    @(369.57 mm, 151.13 mm): Symbol J12 Pin 1 [Pin_1, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 87.63 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 90.17 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 92.71 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 95.25 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 97.79 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 100.33 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 102.87 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 110.49 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 113.03 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 115.57 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 118.11 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 120.65 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 143.51 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 146.05 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 151.13 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 153.67 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 156.21 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 158.75 mm): Horizontal Wire, length 15.24 mm
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(219.71 mm, 260.35 mm): Symbol U6 Pin 8 [MODE/S-CONF, Unspecified, Line]
+    @(219.71 mm, 260.35 mm): Symbol R12 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(219.71 mm, 262.89 mm): Symbol U6 Pin 7 [EN, Unspecified, Line]
+    @(233.68 mm, 262.89 mm): Symbol C22 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(219.71 mm, 265.43 mm): Symbol U6 Pin 6 [VIN, Unspecified, Line]
+    @(219.71 mm, 262.89 mm): Symbol U6 Pin 7 [EN, Unspecified, Line]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(248.92 mm, 187.96 mm): Symbol C24 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(248.92 mm, 198.12 mm): Symbol C25 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(254.00 mm, 87.63 mm): Symbol C26 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(254.00 mm, 115.57 mm): Symbol C27 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(254.00 mm, 146.05 mm): Symbol C28 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(259.08 mm, 187.96 mm): Symbol C29 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(259.08 mm, 198.12 mm): Symbol C30 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(261.62 mm, 82.55 mm): Symbol C31 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(261.62 mm, 92.71 mm): Symbol C32 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(261.62 mm, 110.49 mm): Symbol C33 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(261.62 mm, 120.65 mm): Symbol C34 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(261.62 mm, 140.97 mm): Symbol C35 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(261.62 mm, 151.13 mm): Symbol C36 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(273.05 mm, 185.42 mm): Symbol C37 [C_Small]
+[multiple_net_names]: Both GND and PAD are attached to the same items; GND will be used in the netlist
+    ; warning
+    @(93.98 mm, 73.025 mm): Symbol #PWR025 Hidden pin 1 [GND, Power input, Line]
+    @(273.05 mm, 194.31 mm): Label 'PAD'
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(283.21 mm, 185.42 mm): Symbol C38 [C_Small]
+[footprint_link_issues]: The current configuration does not include the footprint library 'AD7124'
+    ; warning
+    @(288.29 mm, 187.96 mm): Symbol U8 [AD7124-8BCPZ]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'AD7124'
+    ; warning
+    @(288.29 mm, 187.96 mm): Symbol U8 [AD7124-8BCPZ]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 187.96 mm): Symbol U8 Pin 26 [AVDD, Unspecified, Line]
+    @(283.21 mm, 187.96 mm): Symbol C38 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; warning
+    @(288.29 mm, 190.50 mm): Symbol U8 Pin 23 [AVSS, Unspecified, Line]
+    @(283.21 mm, 182.88 mm): Symbol #PWR060 Pin 1 [Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(288.29 mm, 195.58 mm): Symbol U8 Pin 2 [IOVDD, Unspecified, Line]
+    @(288.29 mm, 187.96 mm): Symbol U8 Pin 26 [AVDD, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 205.74 mm): Symbol U8 Pin 5 [AIN1/IOUT/VBIAS, Unspecified, Line]
+    @(295.91 mm, 67.31 mm): Symbol C39 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 208.28 mm): Symbol U8 Pin 6 [AIN2/IOUT/VBIAS/P1, Unspecified, Line]
+    @(295.91 mm, 72.39 mm): Symbol C39 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 210.82 mm): Symbol U8 Pin 7 [AIN3/IOUT/VBIAS/P2, Unspecified, Line]
+    @(273.05 mm, 85.09 mm): Symbol R13 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 213.36 mm): Symbol U8 Pin 8 [AIN4/IOUT/VBIAS/P3, Unspecified, Line]
+    @(273.05 mm, 90.17 mm): Symbol R14 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 215.90 mm): Symbol U8 Pin 9 [AIN5/IOUT/VBIAS/P4, Unspecified, Line]
+    @(297.18 mm, 99.06 mm): Symbol C41 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 218.44 mm): Symbol U8 Pin 10 [AIN6/IOUT/VBIAS, Unspecified, Line]
+    @(297.18 mm, 104.14 mm): Symbol C41 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 220.98 mm): Symbol U8 Pin 11 [AIN7/IOUT/VBIAS, Unspecified, Line]
+    @(273.05 mm, 113.03 mm): Symbol R15 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 223.52 mm): Symbol U8 Pin 14 [AIN8/IOUT/VBIAS, Unspecified, Line]
+    @(273.05 mm, 118.11 mm): Symbol R16 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 226.06 mm): Symbol U8 Pin 15 [AIN9/IOUT/VBIAS, Unspecified, Line]
+    @(295.91 mm, 129.54 mm): Symbol C40 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 228.60 mm): Symbol U8 Pin 16 [AIN10/IOUT/VBIAS, Unspecified, Line]
+    @(295.91 mm, 134.62 mm): Symbol C40 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 231.14 mm): Symbol U8 Pin 17 [AIN11/IOUT/VBIAS, Unspecified, Line]
+    @(273.05 mm, 143.51 mm): Symbol R17 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 233.68 mm): Symbol U8 Pin 18 [AIN12/IOUT/VBIAS, Unspecified, Line]
+    @(273.05 mm, 148.59 mm): Symbol R18 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 236.22 mm): Symbol U8 Pin 19 [AIN13/IOUT/VBIAS, Unspecified, Line]
+    @(297.18 mm, 160.02 mm): Symbol C42 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(288.29 mm, 238.76 mm): Symbol U8 Pin 20 [AIN14/IOUT/VBIAS/REFIN2(+), Unspecified, Line]
+    @(297.18 mm, 165.10 mm): Symbol C42 Pin 2 [Passive, Line]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(295.91 mm, 69.85 mm): Symbol C39 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(295.91 mm, 132.08 mm): Symbol C40 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(297.18 mm, 101.60 mm): Symbol C41 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(297.18 mm, 162.56 mm): Symbol C42 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(303.53 mm, 64.77 mm): Symbol C43 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(303.53 mm, 74.93 mm): Symbol C44 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(303.53 mm, 127.00 mm): Symbol C45 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(303.53 mm, 137.16 mm): Symbol C46 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(303.53 mm, 157.48 mm): Symbol C47 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(303.53 mm, 167.64 mm): Symbol C48 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(304.80 mm, 96.52 mm): Symbol C49 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(304.80 mm, 106.68 mm): Symbol C50 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(327.66 mm, 29.21 mm): Symbol C51 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(327.66 mm, 41.91 mm): Symbol C52 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(335.28 mm, 33.02 mm): Symbol C53 [C_Small]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(384.81 mm, 185.42 mm): Symbol U8 Pin 12 [REFIN1(+), Unspecified, Line]
+    @(384.81 mm, 193.04 mm): Symbol U8 Pin 22 [REFOUT, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(384.81 mm, 187.96 mm): Symbol U8 Pin 13 [REFIN1(-), Unspecified, Line]
+    @(327.66 mm, 39.37 mm): Symbol C52 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(384.81 mm, 193.04 mm): Symbol U8 Pin 22 [REFOUT, Unspecified, Line]
+    @(388.62 mm, 177.80 mm): Symbol C54 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(384.81 mm, 198.12 mm): Symbol U8 Pin 24 [REGCAPA, Unspecified, Line]
+    @(388.62 mm, 198.12 mm): Symbol C55 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(384.81 mm, 200.66 mm): Symbol U8 Pin 1 [REGCAPD, Unspecified, Line]
+    @(392.43 mm, 201.93 mm): Symbol C56 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(384.81 mm, 205.74 mm): Symbol U8 Pin 32 [*CS, Unspecified, Line]
+    @(201.93 mm, 125.73 mm): Symbol U7 Pin 28 [GPIO17, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(384.81 mm, 210.82 mm): Symbol U8 Pin 27 [*SYNC, Unspecified, Line]
+    @(384.81 mm, 210.82 mm): Symbol R31 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(384.81 mm, 220.98 mm): Symbol U8 Pin 29 [DIN, Unspecified, Line]
+    @(201.93 mm, 130.81 mm): Symbol U7 Pin 30 [GPIO19, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(384.81 mm, 223.52 mm): Symbol U8 Pin 28 [DOUT/*RDY, Unspecified, Line]
+    @(201.93 mm, 123.19 mm): Symbol U7 Pin 27 [GPIO16, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(384.81 mm, 233.68 mm): Symbol U8 Pin 30 [SCLK, Unspecified, Line]
+    @(201.93 mm, 128.27 mm): Symbol U7 Pin 29 [GPIO18, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; warning
+    @(384.81 mm, 238.76 mm): Symbol U8 Pin 3 [DGND, Unspecified, Line]
+    @(384.81 mm, 238.76 mm): Symbol #PWR072 Pin 1 [Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; warning
+    @(384.81 mm, 243.84 mm): Symbol U8 Pin 33 [EP, Unspecified, Line]
+    @(387.35 mm, 243.84 mm): Symbol #PWR073 Pin 1 [Power input, Line]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(388.62 mm, 175.26 mm): Symbol C54 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(391.16 mm, 198.12 mm): Symbol C55 [C_Small]
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(394.97 mm, 201.93 mm): Symbol C56 [C_Small]
+[multiple_net_names]: Both +3V3 and SYNC are attached to the same items; +3V3 will be used in the netlist
+    ; warning
+    @(93.98 mm, 26.67 mm): Symbol #PWR024 Hidden pin 1 [+3V3, Power input, Line]
+    @(397.51 mm, 210.82 mm): Label 'SYNC'
+[lib_symbol_mismatch]: Symbol 'C_Small' doesn't match copy in library 'Device'
+    ; warning
+    @(398.78 mm, 175.26 mm): Symbol C57 [C_Small]
+
+ ** ERC messages: 157  Errors 28  Warnings 129
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

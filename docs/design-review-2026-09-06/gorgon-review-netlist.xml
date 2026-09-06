@@ -1,0 +1,4161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Code\gorgon\Project-Gorgon-Hardware\sdi12-analog-mux.kicad_sch</source>
+    <date>2026-09-06T11:17:29</date>
+    <tool>Eeschema 10.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>sdi12-analog-mux.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1331a22b-27d1-4cd1-a886-add2e9732ffd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C2">
+      <value>15p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5301fbf3-e5eb-458a-9cf5-0f13bb166547</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C3">
+      <value>15p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3605f56-0738-4e23-8ea5-8fa03833fdda</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C4">
+      <value>2.2u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>874839a3-df98-4134-952f-69a33e55bb0b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C5">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f09255d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C6">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9c9fa7c-d00d-4175-aa72-81a31f18b30e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C7">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f0930a1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C8">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>627fb72c-d257-4c4a-a0e7-4860593405da</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005edb1aa1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C10">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5d7d639-653f-433f-940c-0f3a311a4981</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C11">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbceace6-8a02-45ce-8096-4465b02f72b3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ef00505</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ef0050f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C14">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ef07987</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eeee897</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eef00bb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C17">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ef08170</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eef0473</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eef0994</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eef89b3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eef89bd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C22">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>876973cc-6543-4ef3-9942-f57a5960d50c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eef89c7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C24">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6783ecf5-06b4-4910-9977-6d9b2db5b0a2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C25">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d6ccccb-4283-40f8-aef3-f6ab5c0d730d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C26">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8748b41d-023c-4bd3-bbe2-d6175693ae74</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C27">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d90929f-4064-4470-bc48-74c8dfbc7723</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C28">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b98e769a-c356-4dd5-a5f5-9a6e3fb4ac03</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C29">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>242cb304-217d-453b-a6e8-a8b9fe468764</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C30">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85dffece-de9c-4212-a28d-20b886ba108a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C31">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>104fdb31-1734-4d1d-bb7b-d8a6bb7b4485</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C32">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65323047-9951-42d7-87c4-d25e5d223483</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C33">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94c5f5ab-ca48-4829-a501-9b3e4847df47</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C34">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46328bec-39d7-454a-a07c-9c048ab2f028</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C35">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>638e366b-c61e-4737-8f55-67b05dd92978</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C36">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c30deaf5-541e-4e23-8737-b407ecb2a64d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C37">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f9805f3-93ca-467b-bd33-55c9808d1178</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C38">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c024fcd9-8ebd-4e17-ab65-6563f474f2b0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C39">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8be9bc1d-f27a-451f-bf14-d5329abffe24</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C40">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40f51f4f-e0d4-413a-aca5-6f8195eefe4a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C41">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b216f2f0-49e8-4d62-b9a5-b9dab8e445fc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C42">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbd356df-f47a-493f-939e-f434f556ab74</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C43">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>223555ee-c65b-4db4-b4b7-db123c295fab</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C44">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cabf4ba-55f7-4c7a-af4e-3a9d56d319ae</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C45">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62238696-df39-41d0-92c9-118ac5638fed</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C46">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7896121-79d5-4880-b1c1-51f0df1184ca</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C47">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8d4cb2d-2a2b-4e9d-b240-1d2dcb8090af</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C48">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d79957a0-8c53-431e-b999-fc858ba15328</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C49">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fa59cbd-44e3-424c-9fd6-343a655de183</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C50">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58786e5b-99a7-4295-95c7-c9290b7b1eb4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C51">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ff6f9dd-666f-432d-add1-7bcfd8f37e60</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C52">
+      <value>.01u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>002104ae-ef32-41a8-9a41-96c909bf604a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C53">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30b8bfd8-80ba-4393-a9cf-56f76261ff46</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C54">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9027ff3-63ad-4b3a-acae-bad1b6ae5f64</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C55">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98c32886-c414-43a7-847c-10118001ca70</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C56">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>717cc368-da63-40c5-95ba-7fafbb9a1162</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C57">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>403604c7-c8fb-4a2e-99cd-b27aba6d2d4f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D2">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1e0eee3-9c49-4496-80c9-7409e27c4a6b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D3">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38fbb668-9ceb-471e-b7db-c7cc8903a1b0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D4">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e8ad6bc-3b9c-46c8-bd6e-d14820981955</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D5">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbf8208f-865a-4266-b640-18fa434ba7cf</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D6">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e125e575-0f7c-45b6-8b7e-42cef9303dae</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D7">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1360fbdb-6e2b-4520-ace5-5791feb17180</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D8">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b6a7fdb-90d0-492f-93cf-389dae17efc3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f30f0ba</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J2">
+      <value>USB_B_Micro</value>
+      <footprint>RP2040_minimal_r2:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified</footprint>
+      <fields>
+        <field name="Footprint">RP2040_minimal_r2:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="connector USB micro"/>
+      <property name="ki_fp_filters" value="USB*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005edb7d8d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="6"/>
+            <pin num="5"/>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="2"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J3">
+      <value>SM03B-SRSS-TB</value>
+      <footprint>JST_SH3PIN_SOCKET:CONN_SM03B-SRSS-TB_JST</footprint>
+      <datasheet>SM03B-SRSS-TB</datasheet>
+      <fields>
+        <field name="Footprint">JST_SH3PIN_SOCKET:CONN_SM03B-SRSS-TB_JST</field>
+        <field name="Datasheet">SM03B-SRSS-TB</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="JST_SH3PIN_SOCKET" part="SM03B-SRSS-TB" description=""/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="SM03B-SRSS-TB"/>
+      <property name="ki_fp_filters" value="CONN_SM03B-SRSS-TB_JST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc0ee9a1-3127-45f5-9f2e-f8934a373145</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock:TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal</footprint>
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">TerminalBlock:TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06f3230f-0620-4182-a7eb-3df5b6a3bf03</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x03_Socket</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x03, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceda45f6-ad34-4491-991d-07b091e89684</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</footprint>
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1ebc2b1-ccfe-43dc-a42b-e2af0137163b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J7">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</footprint>
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4e4e08b-8783-4fcf-845c-0b4669df08ac</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J8">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</footprint>
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f5e1c8e-4390-4eb3-8af8-e733ce853811</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J9">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</footprint>
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87f3e9ea-39f2-4867-8b31-6b85d65af80c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J10">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</footprint>
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dc56af1-10bc-4d9f-b882-4a9c94eacb0b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J11">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</footprint>
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ca715f2-03cf-4c43-a927-364ee107fbb7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J12">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</footprint>
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">TerminalBlock:TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7071cc8f-034c-42b7-94ff-5902b156676b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="L1">
+      <value>2.2u</value>
+      <footprint>74438334022:WE-MAPI_3012</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">74438334022:WE-MAPI_3012</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4789981e-e254-4051-89d3-61b1a4eee7a0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>970d1170-f2e2-4daf-b0b7-5fea5c0f55bd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>180bf0e4-71b7-468a-98fd-384cf5bed9de</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005edae9f0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R4">
+      <value>DNF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005edac067</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>960c2bc7-2098-4c7f-a20d-3f6dfc61c0ce</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R7">
+      <value>34k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92d04c26-5bbe-436b-aca1-e5182c3b45cf</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R8">
+      <value>154k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2279b9f8-2d6e-41e0-9414-d2b0404aad7e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R9">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>359beb1a-6a05-4de2-b417-3b52e9fe0f6c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R10">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ede0881</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R11">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ede1624</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R12">
+      <value>9.31k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d26e17a0-32da-40c7-8661-e3b91b963379</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R13">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d4eb895-8657-4bfd-b7a2-bed4218bcca1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R14">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35a460a0-dc32-454f-906d-bf8385db923f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b53f169-eb9b-483a-a5c9-6e1c7b1d5c5f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R16">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f739917-7c06-4a54-8933-d3007007702d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R17">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75222f41-3d7a-45ac-8c39-dbb6889eaa41</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R18">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a28bd93a-9f81-48e2-b302-9a517e88196c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R19">
+      <value>5.11k .1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ba31840-586f-4f82-97a6-61459800e86f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R20">
+      <value>250</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e1eadf6-c7fb-424e-a202-dee0608803fe</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R21">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b92cb12-8dcf-415a-9f66-c3c1d6f3a900</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R22">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef938aa4-976d-4aaf-93f4-ce09081d9a8a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R23">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7824561d-6971-4b21-a039-650377fcb342</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R24">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e155360-889d-4a75-9744-2c4c5078636d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R25">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6abdef33-25bd-483b-a004-555c2499adba</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R26">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6892645d-592d-4b6c-87f1-a9c41a3e8a07</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R27">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36478302-ed1b-4cff-b462-5db5e89b1032</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R28">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbb49102-b4e1-43ae-8993-1d5da724ed8b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R29">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8701e7f-de0d-48a7-82aa-dda3d00c9ce4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R30">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efa90068-25f2-41e5-abfa-6f38e4f812cc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55859134-83c1-418a-b83e-28f9e56b165d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U1">
+      <value>LP2950-5.0_TO252</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lp2950.pdf</datasheet>
+      <description>Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 5.0V, TO-252</description>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lp2950.pdf</field>
+        <field name="Description">Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 5.0V, TO-252</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LP2950-5.0_TO252" description="Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 5.0V, TO-252"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="Micropower Voltage Regulator 100mA Positive"/>
+      <property name="ki_fp_filters" value="TO?252*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90421e9c-3ce5-48ee-ab3b-504b97dafa93</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U2">
+      <value>NCP1117-3.3_SOT223</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</datasheet>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Regulator_Linear" part="NCP1117-3.3_SOT223" description="1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="REGULATOR LDO 3.3V"/>
+      <property name="ki_fp_filters" value="SOT?223*TabPin2*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32a65da8-5c9c-41fc-8ddb-1e79c239b760</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U3">
+      <value>TXS0102DCT</value>
+      <footprint>Package_SO:SSOP-8_2.95x2.8mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/txs0102</datasheet>
+      <description>2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8</description>
+      <fields>
+        <field name="Footprint">Package_SO:SSOP-8_2.95x2.8mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/txs0102</field>
+        <field name="Description">2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8</field>
+      </fields>
+      <libsource lib="Logic_LevelTranslator" part="TXS0102DCT" description="2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="Level-Shifter CMOS-TTL-Translation"/>
+      <property name="ki_fp_filters" value="SSOP*2.95x2.8mm*P0.65mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffe302b6-33a2-48e9-9bde-f441c893fa4d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="6"/>
+            <pin num="5"/>
+            <pin num="4"/>
+            <pin num="3"/>
+            <pin num="2"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U4">
+      <value>W25Q128JVS</value>
+      <footprint>Package_SO_Downloaded:SOIC-8_5.23x5.23mm_P1.27mm</footprint>
+      <datasheet>http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</datasheet>
+      <fields>
+        <field name="Footprint">Package_SO_Downloaded:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Memory_Flash" part="W25Q128JVS" description="128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="flash memory SPI QPI DTR"/>
+      <property name="ki_fp_filters" value="SOIC*5.23x5.23mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a46f8cdc-021c-4392-b58a-b07e97ca1db6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="6"/>
+            <pin num="5"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U5">
+      <value>ADG708BRUZ</value>
+      <footprint>ADG708:RU_16_ADI</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADG708_709.pdf</datasheet>
+      <fields>
+        <field name="Footprint">ADG708:RU_16_ADI</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/ADG708_709.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ADG708" part="ADG708BRUZ" description=""/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="ADG708BRUZ"/>
+      <property name="ki_fp_filters" value="RU_16_ADI RU_16_ADI-M RU_16_ADI-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3aa06414-5936-4264-b0ce-a3a6bcde39b7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="16"/>
+            <pin num="15"/>
+            <pin num="14"/>
+            <pin num="13"/>
+            <pin num="12"/>
+            <pin num="11"/>
+            <pin num="10"/>
+            <pin num="9"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U6">
+      <value>XPS629210DRLR</value>
+      <footprint>TPS629210:SOT_9210DRLR_TEX-M</footprint>
+      <datasheet>https://www.ti.com/lit/gpn/tps629210</datasheet>
+      <fields>
+        <field name="Footprint">TPS629210:SOT_9210DRLR_TEX-M</field>
+        <field name="Datasheet">https://www.ti.com/lit/gpn/tps629210</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="TPS629210" part="XPS629210DRLR" description=""/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="XPS629210DRLR"/>
+      <property name="ki_fp_filters" value="SOT_9210DRLR_TEX SOT_9210DRLR_TEX-M SOT_9210DRLR_TEX-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02d6914f-57cb-45fe-b064-74f2f361d4a9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="8"/>
+            <pin num="7"/>
+            <pin num="6"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U7">
+      <value>RP2040</value>
+      <footprint>RP2040_minimal_r2:RP2040-QFN-56</footprint>
+      <fields>
+        <field name="Footprint">RP2040_minimal_r2:RP2040-QFN-56</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MCU_RaspberryPi_RP2040" part="RP2040" description=""/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f36e0179-0930-4635-a7cc-56a8800084e8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="56"/>
+            <pin num="53"/>
+            <pin num="55"/>
+            <pin num="54"/>
+            <pin num="51"/>
+            <pin num="52"/>
+            <pin num="20"/>
+            <pin num="21"/>
+            <pin num="26"/>
+            <pin num="24"/>
+            <pin num="25"/>
+            <pin num="50"/>
+            <pin num="23"/>
+            <pin num="45"/>
+            <pin num="19"/>
+            <pin num="44"/>
+            <pin num="49"/>
+            <pin num="42"/>
+            <pin num="57"/>
+            <pin num="33"/>
+            <pin num="22"/>
+            <pin num="10"/>
+            <pin num="1"/>
+            <pin num="48"/>
+            <pin num="43"/>
+            <pin num="47"/>
+            <pin num="46"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="14"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="27"/>
+            <pin num="28"/>
+            <pin num="29"/>
+            <pin num="30"/>
+            <pin num="31"/>
+            <pin num="32"/>
+            <pin num="34"/>
+            <pin num="35"/>
+            <pin num="36"/>
+            <pin num="37"/>
+            <pin num="38"/>
+            <pin num="39"/>
+            <pin num="40"/>
+            <pin num="41"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U8">
+      <value>AD7124-8BCPZ</value>
+      <footprint>AD7124:CP_32_12_ADI-M</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ad7124-8.pdf</datasheet>
+      <fields>
+        <field name="Footprint">AD7124:CP_32_12_ADI-M</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/ad7124-8.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="AD7124" part="AD7124-8BCPZ" description=""/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="AD7124-8BCPZ"/>
+      <property name="ki_fp_filters" value="CP_32_12_ADI CP_32_12_ADI-M CP_32_12_ADI-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fed10c88-fd35-400d-96b8-e1e7d0b9be0c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="26"/>
+            <pin num="23"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="14"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="19"/>
+            <pin num="20"/>
+            <pin num="21"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="22"/>
+            <pin num="24"/>
+            <pin num="1"/>
+            <pin num="32"/>
+            <pin num="27"/>
+            <pin num="31"/>
+            <pin num="29"/>
+            <pin num="28"/>
+            <pin num="25"/>
+            <pin num="30"/>
+            <pin num="3"/>
+            <pin num="33"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Y1">
+      <value>ABM8-272-T3</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="Footprint">Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Sheetname" value="sdi12-analog-mux"/>
+      <property name="Sheetfile" value="sdi12-analog-mux.kicad_sch"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f164bbe-0cd7-477a-8f46-961f6ff809ad</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AD7124" part="AD7124-8BCPZ">
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/ad7124-8.pdf</docs>
+      <footprints>
+        <fp>CP_32_12_ADI</fp>
+        <fp>CP_32_12_ADI-M</fp>
+        <fp>CP_32_12_ADI-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD7124-8BCPZ</field>
+        <field name="Footprint">CP_32_12_ADI</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/ad7124-8.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="REGCAPD" type="unspecified"/>
+        <pin num="2" name="IOVDD" type="unspecified"/>
+        <pin num="3" name="DGND" type="unspecified"/>
+        <pin num="4" name="AIN0/IOUT/VBIAS" type="unspecified"/>
+        <pin num="5" name="AIN1/IOUT/VBIAS" type="unspecified"/>
+        <pin num="6" name="AIN2/IOUT/VBIAS/P1" type="unspecified"/>
+        <pin num="7" name="AIN3/IOUT/VBIAS/P2" type="unspecified"/>
+        <pin num="8" name="AIN4/IOUT/VBIAS/P3" type="unspecified"/>
+        <pin num="9" name="AIN5/IOUT/VBIAS/P4" type="unspecified"/>
+        <pin num="10" name="AIN6/IOUT/VBIAS" type="unspecified"/>
+        <pin num="11" name="AIN7/IOUT/VBIAS" type="unspecified"/>
+        <pin num="12" name="REFIN1(+)" type="unspecified"/>
+        <pin num="13" name="REFIN1(-)" type="unspecified"/>
+        <pin num="14" name="AIN8/IOUT/VBIAS" type="unspecified"/>
+        <pin num="15" name="AIN9/IOUT/VBIAS" type="unspecified"/>
+        <pin num="16" name="AIN10/IOUT/VBIAS" type="unspecified"/>
+        <pin num="17" name="AIN11/IOUT/VBIAS" type="unspecified"/>
+        <pin num="18" name="AIN12/IOUT/VBIAS" type="unspecified"/>
+        <pin num="19" name="AIN13/IOUT/VBIAS" type="unspecified"/>
+        <pin num="20" name="AIN14/IOUT/VBIAS/REFIN2(+)" type="unspecified"/>
+        <pin num="21" name="AIN15/IOUT/VBIAS/REFIN2(-)" type="unspecified"/>
+        <pin num="22" name="REFOUT" type="unspecified"/>
+        <pin num="23" name="AVSS" type="unspecified"/>
+        <pin num="24" name="REGCAPA" type="unspecified"/>
+        <pin num="25" name="PSW" type="unspecified"/>
+        <pin num="26" name="AVDD" type="unspecified"/>
+        <pin num="27" name="*SYNC" type="unspecified"/>
+        <pin num="28" name="DOUT/*RDY" type="unspecified"/>
+        <pin num="29" name="DIN" type="unspecified"/>
+        <pin num="30" name="SCLK" type="unspecified"/>
+        <pin num="31" name="CLK" type="unspecified"/>
+        <pin num="32" name="*CS" type="unspecified"/>
+        <pin num="33" name="EP" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="ADG708" part="ADG708BRUZ">
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/ADG708_709.pdf</docs>
+      <footprints>
+        <fp>RU_16_ADI</fp>
+        <fp>RU_16_ADI-M</fp>
+        <fp>RU_16_ADI-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADG708BRUZ</field>
+        <field name="Footprint">RU_16_ADI</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/ADG708_709.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="unspecified"/>
+        <pin num="2" name="EN" type="unspecified"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="S1" type="unspecified"/>
+        <pin num="5" name="S2" type="unspecified"/>
+        <pin num="6" name="S3" type="unspecified"/>
+        <pin num="7" name="S4" type="unspecified"/>
+        <pin num="8" name="D" type="unspecified"/>
+        <pin num="9" name="S8" type="unspecified"/>
+        <pin num="10" name="S7" type="unspecified"/>
+        <pin num="11" name="S6" type="unspecified"/>
+        <pin num="12" name="S5" type="unspecified"/>
+        <pin num="13" name="VDD" type="power_in"/>
+        <pin num="14" name="GND" type="unspecified"/>
+        <pin num="15" name="A2" type="unspecified"/>
+        <pin num="16" name="A1" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Socket">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Socket</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x03, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x04">
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x04</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <description>USB Micro Type B connector</description>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">USB Micro Type B connector</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Four pin crystal, GND on pins 2 and 4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="JST_SH3PIN_SOCKET" part="SM03B-SRSS-TB">
+      <docs>SM03B-SRSS-TB</docs>
+      <footprints>
+        <fp>CONN_SM03B-SRSS-TB_JST</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SM03B-SRSS-TB</field>
+        <field name="Footprint">CONN_SM03B-SRSS-TB_JST</field>
+        <field name="Datasheet">SM03B-SRSS-TB</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Logic_LevelTranslator" part="TXS0102DCT">
+      <description>2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8</description>
+      <docs>http://www.ti.com/lit/gpn/txs0102</docs>
+      <footprints>
+        <fp>SSOP*2.95x2.8mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXS0102DCT</field>
+        <field name="Footprint">Package_SO:SSOP-8_2.95x2.8mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/txs0102</field>
+        <field name="Description">2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B2" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VCCA" type="power_in"/>
+        <pin num="4" name="A2" type="bidirectional"/>
+        <pin num="5" name="A1" type="bidirectional"/>
+        <pin num="6" name="OE" type="input"/>
+        <pin num="7" name="VCCB" type="power_in"/>
+        <pin num="8" name="B1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi_RP2040" part="RP2040">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">RP2040_minimal:RP2040-QFN-56</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="power_in"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="passive"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="passive"/>
+        <pin num="22" name="IOVDD" type="power_in"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="output"/>
+        <pin num="25" name="SWD" type="bidirectional"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="power_in"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29_ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="power_in"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_IN" type="power_in"/>
+        <pin num="45" name="VREG_VOUT" type="power_out"/>
+        <pin num="46" name="USB_DM" type="bidirectional"/>
+        <pin num="47" name="USB_DP" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="power_in"/>
+        <pin num="50" name="DVDD" type="power_in"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="output"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_SS" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_Flash" part="W25Q128JVS">
+      <description>128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</description>
+      <docs>http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</docs>
+      <footprints>
+        <fp>SOIC*5.23x5.23mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">W25Q128JVS</field>
+        <field name="Footprint">Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</field>
+        <field name="Description">128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="input"/>
+        <pin num="2" name="DO(IO1)" type="bidirectional"/>
+        <pin num="3" name="IO2" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="bidirectional"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="IO3" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LP2950-5.0_TO252">
+      <description>Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 5.0V, TO-252</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lp2950.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LP2950-5.0_TO252</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lp2950.pdf</field>
+        <field name="Description">Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 5.0V, TO-252</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="NCP1117-3.3_SOT223">
+      <description>1A Low drop-out regulator, Fixed Output 3.3V, SOT-223</description>
+      <docs>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NCP1117-3.3_SOT223</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</field>
+        <field name="Description">1A Low drop-out regulator, Fixed Output 3.3V, SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS629210" part="XPS629210DRLR">
+      <docs>https://www.ti.com/lit/gpn/tps629210</docs>
+      <footprints>
+        <fp>SOT_9210DRLR_TEX</fp>
+        <fp>SOT_9210DRLR_TEX-M</fp>
+        <fp>SOT_9210DRLR_TEX-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XPS629210DRLR</field>
+        <field name="Footprint">SOT_9210DRLR_TEX</field>
+        <field name="Datasheet">https://www.ti.com/lit/gpn/tps629210</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="FB/VSET" type="unspecified"/>
+        <pin num="2" name="PG" type="unspecified"/>
+        <pin num="3" name="VOS" type="unspecified"/>
+        <pin num="4" name="SW" type="unspecified"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="VIN" type="unspecified"/>
+        <pin num="7" name="EN" type="unspecified"/>
+        <pin num="8" name="MODE/S-CONF" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>${KICAD10_SYMBOL_DIR}/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>${KICAD10_SYMBOL_DIR}/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>${KICAD10_SYMBOL_DIR}/Device.kicad_sym</uri>
+    </library>
+    <library logical="Logic_LevelTranslator">
+      <uri>${KICAD10_SYMBOL_DIR}/Logic_LevelTranslator.kicad_sym</uri>
+    </library>
+    <library logical="Memory_Flash">
+      <uri>${KICAD10_SYMBOL_DIR}/Memory_Flash.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>${KICAD10_SYMBOL_DIR}/Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+1V1" class="Default">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U7" pin="23" pinfunction="DVDD_23" pintype="power_in"/>
+      <node ref="U7" pin="45" pinfunction="VREG_VOUT_45" pintype="power_out"/>
+      <node ref="U7" pin="50" pinfunction="DVDD_50" pintype="power_in"/>
+    </net>
+    <net code="2" name="+3V3" class="Default">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VO_2" pintype="power_out"/>
+      <node ref="U3" pin="3" pinfunction="VCCA_3" pintype="power_in"/>
+      <node ref="U3" pin="6" pinfunction="OE_6" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="VCC_8" pintype="power_in"/>
+      <node ref="U5" pin="13" pinfunction="VDD_13" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="VOS_3" pintype="unspecified"/>
+      <node ref="U7" pin="1" pinfunction="IOVDD_1" pintype="power_in"/>
+      <node ref="U7" pin="10" pinfunction="IOVDD_10" pintype="power_in"/>
+      <node ref="U7" pin="22" pinfunction="IOVDD_22" pintype="power_in"/>
+      <node ref="U7" pin="33" pinfunction="IOVDD_33" pintype="power_in"/>
+      <node ref="U7" pin="42" pinfunction="IOVDD_42" pintype="power_in"/>
+      <node ref="U7" pin="43" pinfunction="ADC_AVDD_43" pintype="power_in"/>
+      <node ref="U7" pin="44" pinfunction="VREG_IN_44" pintype="power_in"/>
+      <node ref="U7" pin="48" pinfunction="USB_VDD_48" pintype="power_in"/>
+      <node ref="U7" pin="49" pinfunction="IOVDD_49" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="IOVDD_2" pintype="unspecified"/>
+      <node ref="U8" pin="26" pinfunction="AVDD_26" pintype="unspecified"/>
+    </net>
+    <net code="3" name="+5V" class="Default">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VO_3" pintype="power_out"/>
+      <node ref="U3" pin="7" pinfunction="VCCB_7" pintype="power_in"/>
+    </net>
+    <net code="4" name="+12V" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VI_1" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="VIN_6" pintype="unspecified"/>
+      <node ref="U6" pin="7" pinfunction="EN_7" pintype="unspecified"/>
+    </net>
+    <net code="5" name="/ADC_CS" class="Default">
+      <node ref="U7" pin="28" pinfunction="GPIO17_28" pintype="bidirectional"/>
+      <node ref="U8" pin="32" pinfunction="*CS_32" pintype="unspecified"/>
+    </net>
+    <net code="6" name="/EXCITATION_CURRENT_OUT" class="Default">
+      <node ref="D2" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/EXCITATION_CURRENT_SRC" class="Default">
+      <node ref="U5" pin="8" pinfunction="D_8" pintype="unspecified"/>
+      <node ref="U8" pin="4" pinfunction="AIN0/IOUT/VBIAS_4" pintype="unspecified"/>
+    </net>
+    <net code="8" name="/EX_I_1" class="Default">
+      <node ref="J6" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="S1_4" pintype="unspecified"/>
+    </net>
+    <net code="9" name="/EX_I_2" class="Default">
+      <node ref="J7" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="S2_5" pintype="unspecified"/>
+    </net>
+    <net code="10" name="/EX_I_3" class="Default">
+      <node ref="J8" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="S3_6" pintype="unspecified"/>
+    </net>
+    <net code="11" name="/EX_I_4" class="Default">
+      <node ref="J9" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="S4_7" pintype="unspecified"/>
+    </net>
+    <net code="12" name="/EX_I_5" class="Default">
+      <node ref="J10" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U5" pin="12" pinfunction="S5_12" pintype="unspecified"/>
+    </net>
+    <net code="13" name="/EX_I_6" class="Default">
+      <node ref="J11" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U5" pin="11" pinfunction="S6_11" pintype="unspecified"/>
+    </net>
+    <net code="14" name="/EX_I_7" class="Default">
+      <node ref="J12" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="S7_10" pintype="unspecified"/>
+    </net>
+    <net code="15" name="/MISO" class="Default">
+      <node ref="U7" pin="27" pinfunction="GPIO16_27" pintype="bidirectional"/>
+      <node ref="U8" pin="28" pinfunction="DOUT/*RDY_28" pintype="unspecified"/>
+    </net>
+    <net code="16" name="/MOSI" class="Default">
+      <node ref="U7" pin="30" pinfunction="GPIO19_30" pintype="bidirectional"/>
+      <node ref="U8" pin="29" pinfunction="DIN_29" pintype="unspecified"/>
+    </net>
+    <net code="17" name="/MUX_A0" class="Default">
+      <node ref="U5" pin="1" pinfunction="A0_1" pintype="unspecified"/>
+      <node ref="U7" pin="32" pinfunction="GPIO21_32" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/MUX_A1" class="Default">
+      <node ref="U5" pin="16" pinfunction="A1_16" pintype="unspecified"/>
+      <node ref="U7" pin="34" pinfunction="GPIO22_34" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/MUX_A2" class="Default">
+      <node ref="U5" pin="15" pinfunction="A2_15" pintype="unspecified"/>
+      <node ref="U7" pin="35" pinfunction="GPIO23_35" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/MUX_EN" class="Default">
+      <node ref="U5" pin="2" pinfunction="EN_2" pintype="unspecified"/>
+      <node ref="U7" pin="31" pinfunction="GPIO20_31" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/NEGATIVE_REF" class="Default">
+      <node ref="C52" pin="1" pintype="passive"/>
+      <node ref="C53" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="U8" pin="13" pinfunction="REFIN1(-)_13" pintype="unspecified"/>
+    </net>
+    <net code="22" name="/POSITIVE_REF" class="Default">
+      <node ref="C51" pin="1" pintype="passive"/>
+      <node ref="C53" pin="1" pintype="passive"/>
+      <node ref="C54" pin="1" pintype="passive"/>
+      <node ref="C57" pin="1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U8" pin="12" pinfunction="REFIN1(+)_12" pintype="unspecified"/>
+      <node ref="U8" pin="22" pinfunction="REFOUT_22" pintype="unspecified"/>
+    </net>
+    <net code="23" name="/QSPI_SCLK" class="Default">
+      <node ref="U4" pin="6" pinfunction="CLK_6" pintype="input"/>
+      <node ref="U7" pin="52" pinfunction="QSPI_SCLK_52" pintype="output"/>
+    </net>
+    <net code="24" name="/QSPI_SD0" class="Default">
+      <node ref="U4" pin="5" pinfunction="DI(IO0)_5" pintype="bidirectional"/>
+      <node ref="U7" pin="53" pinfunction="QSPI_SD0_53" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/QSPI_SD1" class="Default">
+      <node ref="U4" pin="2" pinfunction="DO(IO1)_2" pintype="bidirectional"/>
+      <node ref="U7" pin="55" pinfunction="QSPI_SD1_55" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/QSPI_SD2" class="Default">
+      <node ref="U4" pin="3" pinfunction="IO2_3" pintype="bidirectional"/>
+      <node ref="U7" pin="54" pinfunction="QSPI_SD2_54" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/QSPI_SD3" class="Default">
+      <node ref="U4" pin="7" pinfunction="IO3_7" pintype="bidirectional"/>
+      <node ref="U7" pin="51" pinfunction="QSPI_SD3_51" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/QSPI_SS" class="Default">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="~{CS}_1" pintype="input"/>
+      <node ref="U7" pin="56" pinfunction="QSPI_SS_56" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/RTD_1_NEG" class="Default">
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="AIN2/IOUT/VBIAS/P1_6" pintype="unspecified"/>
+    </net>
+    <net code="30" name="/RTD_1_POS" class="Default">
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="AIN1/IOUT/VBIAS_5" pintype="unspecified"/>
+    </net>
+    <net code="31" name="/RTD_2_NEG" class="Default">
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U8" pin="8" pinfunction="AIN4/IOUT/VBIAS/P3_8" pintype="unspecified"/>
+    </net>
+    <net code="32" name="/RTD_2_POS" class="Default">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="AIN3/IOUT/VBIAS/P2_7" pintype="unspecified"/>
+    </net>
+    <net code="33" name="/RTD_3_NEG" class="Default">
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C50" pin="1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U8" pin="10" pinfunction="AIN6/IOUT/VBIAS_10" pintype="unspecified"/>
+    </net>
+    <net code="34" name="/RTD_3_POS" class="Default">
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C49" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U8" pin="9" pinfunction="AIN5/IOUT/VBIAS/P4_9" pintype="unspecified"/>
+    </net>
+    <net code="35" name="/RTD_4_NEG" class="Default">
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U8" pin="14" pinfunction="AIN8/IOUT/VBIAS_14" pintype="unspecified"/>
+    </net>
+    <net code="36" name="/RTD_4_POS" class="Default">
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U8" pin="11" pinfunction="AIN7/IOUT/VBIAS_11" pintype="unspecified"/>
+    </net>
+    <net code="37" name="/RTD_5_NEG" class="Default">
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U8" pin="16" pinfunction="AIN10/IOUT/VBIAS_16" pintype="unspecified"/>
+    </net>
+    <net code="38" name="/RTD_5_POS" class="Default">
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U8" pin="15" pinfunction="AIN9/IOUT/VBIAS_15" pintype="unspecified"/>
+    </net>
+    <net code="39" name="/RTD_6_NEG" class="Default">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U8" pin="18" pinfunction="AIN12/IOUT/VBIAS_18" pintype="unspecified"/>
+    </net>
+    <net code="40" name="/RTD_6_POS" class="Default">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U8" pin="17" pinfunction="AIN11/IOUT/VBIAS_17" pintype="unspecified"/>
+    </net>
+    <net code="41" name="/RTD_7_NEG" class="Default">
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U8" pin="20" pinfunction="AIN14/IOUT/VBIAS/REFIN2(+)_20" pintype="unspecified"/>
+    </net>
+    <net code="42" name="/RTD_7_POS" class="Default">
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U8" pin="19" pinfunction="AIN13/IOUT/VBIAS_19" pintype="unspecified"/>
+    </net>
+    <net code="43" name="/RUN" class="Default">
+      <node ref="U7" pin="26" pinfunction="RUN_26" pintype="input"/>
+    </net>
+    <net code="44" name="/SCLK" class="Default">
+      <node ref="U7" pin="29" pinfunction="GPIO18_29" pintype="bidirectional"/>
+      <node ref="U8" pin="30" pinfunction="SCLK_30" pintype="unspecified"/>
+    </net>
+    <net code="45" name="/SDI12_DATA_3V3" class="Default">
+      <node ref="U3" pin="5" pinfunction="A1_5" pintype="bidirectional"/>
+      <node ref="U7" pin="13" pinfunction="GPIO10_13" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="/SDI12_DATA_5V" class="Default">
+      <node ref="J4" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="B1_8" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/SWCLK" class="Default">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U7" pin="24" pinfunction="SWCLK_24" pintype="output"/>
+    </net>
+    <net code="48" name="/SWD" class="Default">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U7" pin="25" pinfunction="SWD_25" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/UART0_RX" class="Default">
+      <node ref="J5" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="GPIO1_3" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="/UART0_TX" class="Default">
+      <node ref="J5" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="GPIO0_2" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="/USB_D+" class="Default">
+      <node ref="J2" pin="3" pinfunction="D+_3" pintype="bidirectional"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="/USB_D-" class="Default">
+      <node ref="J2" pin="2" pinfunction="D-_2" pintype="bidirectional"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="/XIN" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U7" pin="20" pinfunction="XIN_20" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="54" name="/XOUT" class="Default">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U7" pin="21" pinfunction="XOUT_21" pintype="passive"/>
+    </net>
+    <net code="55" name="/~{USB_BOOT}" class="Default">
+      <node ref="J1" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="GND" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="C49" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C50" pin="2" pintype="passive"/>
+      <node ref="C51" pin="2" pintype="passive"/>
+      <node ref="C52" pin="2" pintype="passive"/>
+      <node ref="C54" pin="2" pintype="passive"/>
+      <node ref="C55" pin="2" pintype="passive"/>
+      <node ref="C56" pin="2" pintype="passive"/>
+      <node ref="C57" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="GND_5" pintype="power_out"/>
+      <node ref="J2" pin="6" pinfunction="Shield_6" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2_2" pintype="unspecified"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND_2" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND_1" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND_2" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="GND_4" pintype="power_in"/>
+      <node ref="U5" pin="14" pinfunction="GND_14" pintype="unspecified"/>
+      <node ref="U5" pin="3" pinfunction="VSS_3" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="GND_5" pintype="power_out"/>
+      <node ref="U7" pin="19" pinfunction="TESTEN_19" pintype="passive"/>
+      <node ref="U7" pin="57" pinfunction="GND_57" pintype="power_in"/>
+      <node ref="U8" pin="23" pinfunction="AVSS_23" pintype="unspecified"/>
+      <node ref="U8" pin="3" pinfunction="DGND_3" pintype="unspecified"/>
+      <node ref="U8" pin="33" pinfunction="EP_33" pintype="unspecified"/>
+      <node ref="Y1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4_4" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(C3-Pad1)" class="Default">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="Y1" pin="3" pinfunction="3_3" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D2-A)" class="Default">
+      <node ref="D2" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D3-A)" class="Default">
+      <node ref="D3" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J7" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D4-A)" class="Default">
+      <node ref="D4" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J8" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D5-A)" class="Default">
+      <node ref="D5" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J9" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D6-A)" class="Default">
+      <node ref="D6" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J10" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D7-A)" class="Default">
+      <node ref="D7" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J11" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D8-A)" class="Default">
+      <node ref="D8" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J12" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(J3-Pad1)" class="Default">
+      <node ref="J3" pin="1" pinfunction="1_1" pintype="unspecified"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(J3-Pad3)" class="Default">
+      <node ref="J3" pin="3" pinfunction="3_3" pintype="unspecified"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(J6-Pin_2)" class="Default">
+      <node ref="J6" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(J6-Pin_3)" class="Default">
+      <node ref="J6" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(J7-Pin_2)" class="Default">
+      <node ref="J7" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(J7-Pin_3)" class="Default">
+      <node ref="J7" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(J8-Pin_2)" class="Default">
+      <node ref="J8" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(J8-Pin_3)" class="Default">
+      <node ref="J8" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(J9-Pin_2)" class="Default">
+      <node ref="J9" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(J9-Pin_3)" class="Default">
+      <node ref="J9" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(J10-Pin_2)" class="Default">
+      <node ref="J10" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(J10-Pin_3)" class="Default">
+      <node ref="J10" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(J11-Pin_2)" class="Default">
+      <node ref="J11" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(J11-Pin_3)" class="Default">
+      <node ref="J11" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(J12-Pin_2)" class="Default">
+      <node ref="J12" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(J12-Pin_3)" class="Default">
+      <node ref="J12" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(R19-Pad2)" class="Default">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(U6-FB/VSET)" class="Default">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="FB/VSET_1" pintype="unspecified"/>
+    </net>
+    <net code="83" name="Net-(U6-MODE/S-CONF)" class="Default">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="MODE/S-CONF_8" pintype="unspecified"/>
+    </net>
+    <net code="84" name="Net-(U6-PG)" class="Default">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="PG_2" pintype="unspecified"/>
+    </net>
+    <net code="85" name="Net-(U6-SW)" class="Default">
+      <node ref="L1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="SW_4" pintype="unspecified"/>
+    </net>
+    <net code="86" name="Net-(U7-USB_DM)" class="Default">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U7" pin="46" pinfunction="USB_DM_46" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="Net-(U7-USB_DP)" class="Default">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U7" pin="47" pinfunction="USB_DP_47" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="Net-(U8-*SYNC)" class="Default">
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U8" pin="27" pinfunction="*SYNC_27" pintype="unspecified"/>
+    </net>
+    <net code="89" name="Net-(U8-REGCAPA)" class="Default">
+      <node ref="C55" pin="1" pintype="passive"/>
+      <node ref="U8" pin="24" pinfunction="REGCAPA_24" pintype="unspecified"/>
+    </net>
+    <net code="90" name="Net-(U8-REGCAPD)" class="Default">
+      <node ref="C56" pin="1" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="REGCAPD_1" pintype="unspecified"/>
+    </net>
+    <net code="91" name="VBUS" class="Default">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="VBUS_1" pintype="power_out"/>
+      <node ref="U2" pin="3" pinfunction="VI_3" pintype="power_in"/>
+    </net>
+    <net code="92" name="unconnected-(J2-ID-Pad4)" class="Default">
+      <node ref="J2" pin="4" pinfunction="ID_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U3-A2-Pad4)" class="Default">
+      <node ref="U3" pin="4" pinfunction="A2_4" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="unconnected-(U3-B2-Pad1)" class="Default">
+      <node ref="U3" pin="1" pinfunction="B2_1" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="unconnected-(U5-S8-Pad9)" class="Default">
+      <node ref="U5" pin="9" pinfunction="S8_9" pintype="unspecified"/>
+    </net>
+    <net code="96" name="unconnected-(U7-GPIO2-Pad4)" class="Default">
+      <node ref="U7" pin="4" pinfunction="GPIO2_4" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="unconnected-(U7-GPIO3-Pad5)" class="Default">
+      <node ref="U7" pin="5" pinfunction="GPIO3_5" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="unconnected-(U7-GPIO4-Pad6)" class="Default">
+      <node ref="U7" pin="6" pinfunction="GPIO4_6" pintype="bidirectional"/>
+    </net>
+    <net code="99" name="unconnected-(U7-GPIO5-Pad7)" class="Default">
+      <node ref="U7" pin="7" pinfunction="GPIO5_7" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="unconnected-(U7-GPIO6-Pad8)" class="Default">
+      <node ref="U7" pin="8" pinfunction="GPIO6_8" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="unconnected-(U7-GPIO7-Pad9)" class="Default">
+      <node ref="U7" pin="9" pinfunction="GPIO7_9" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="unconnected-(U7-GPIO8-Pad11)" class="Default">
+      <node ref="U7" pin="11" pinfunction="GPIO8_11" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="unconnected-(U7-GPIO9-Pad12)" class="Default">
+      <node ref="U7" pin="12" pinfunction="GPIO9_12" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="unconnected-(U7-GPIO11-Pad14)" class="Default">
+      <node ref="U7" pin="14" pinfunction="GPIO11_14" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="unconnected-(U7-GPIO12-Pad15)" class="Default">
+      <node ref="U7" pin="15" pinfunction="GPIO12_15" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="unconnected-(U7-GPIO13-Pad16)" class="Default">
+      <node ref="U7" pin="16" pinfunction="GPIO13_16" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="unconnected-(U7-GPIO14-Pad17)" class="Default">
+      <node ref="U7" pin="17" pinfunction="GPIO14_17" pintype="bidirectional"/>
+    </net>
+    <net code="108" name="unconnected-(U7-GPIO15-Pad18)" class="Default">
+      <node ref="U7" pin="18" pinfunction="GPIO15_18" pintype="bidirectional"/>
+    </net>
+    <net code="109" name="unconnected-(U7-GPIO24-Pad36)" class="Default">
+      <node ref="U7" pin="36" pinfunction="GPIO24_36" pintype="bidirectional"/>
+    </net>
+    <net code="110" name="unconnected-(U7-GPIO25-Pad37)" class="Default">
+      <node ref="U7" pin="37" pinfunction="GPIO25_37" pintype="bidirectional"/>
+    </net>
+    <net code="111" name="unconnected-(U7-GPIO26_ADC0-Pad38)" class="Default">
+      <node ref="U7" pin="38" pinfunction="GPIO26_ADC0_38" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="unconnected-(U7-GPIO27_ADC1-Pad39)" class="Default">
+      <node ref="U7" pin="39" pinfunction="GPIO27_ADC1_39" pintype="bidirectional"/>
+    </net>
+    <net code="113" name="unconnected-(U7-GPIO28_ADC2-Pad40)" class="Default">
+      <node ref="U7" pin="40" pinfunction="GPIO28_ADC2_40" pintype="bidirectional"/>
+    </net>
+    <net code="114" name="unconnected-(U7-GPIO29_ADC3-Pad41)" class="Default">
+      <node ref="U7" pin="41" pinfunction="GPIO29_ADC3_41" pintype="bidirectional"/>
+    </net>
+    <net code="115" name="unconnected-(U8-AIN15/IOUT/VBIAS/REFIN2(-)-Pad21)" class="Default">
+      <node ref="U8" pin="21" pinfunction="AIN15/IOUT/VBIAS/REFIN2(-)_21" pintype="unspecified"/>
+    </net>
+    <net code="116" name="unconnected-(U8-CLK-Pad31)" class="Default">
+      <node ref="U8" pin="31" pinfunction="CLK_31" pintype="unspecified"/>
+    </net>
+    <net code="117" name="unconnected-(U8-PSW-Pad25)" class="Default">
+      <node ref="U8" pin="25" pinfunction="PSW_25" pintype="unspecified"/>
+    </net>
+  </nets>
+</export>
